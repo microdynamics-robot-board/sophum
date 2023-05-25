@@ -210,20 +210,18 @@
          "G:\project_development\GitHub\sophum\SCH\V1.0\sophum.dsn")
       (Path "Design Resources"
          "G:\project_development\GitHub\sophum\SCH\V1.0\sophum.dsn" "SCHEMATIC1")
-      (Path "Outputs")
-      (Select "Design Resources"
-         "G:\project_development\GitHub\sophum\SCH\V1.0\sophum.dsn"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 328"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 328"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 182 1350 182 549")
-        (Scroll "48 385")
+        (Scroll "149 344")
         (Zoom "124")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\SOPHUM\SCH\V1.0\SOPHUM.DSN")
@@ -242,9 +240,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1009 130 501")
-        (Scroll "-58 0")
-        (Zoom "62")
+        (Placement "44 2 3 -1 -1 -8 -31 130 1009 130 501")
+        (Scroll "0 1518")
+        (Zoom "248")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\SOPHUM\SCH\V1.0\SOPHUM.DSN")
       (Schematic "SCHEMATIC1")
@@ -253,8 +251,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 156 1035 156 527")
-        (Scroll "0 210")
-        (Zoom "124")
+        (Scroll "-58 0")
+        (Zoom "62")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\SOPHUM\SCH\V1.0\SOPHUM.DSN")
       (Schematic "SCHEMATIC1")
@@ -263,8 +261,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 182 1061 182 553")
-        (Scroll "0 0")
-        (Zoom "124")
+        (Scroll "-58 0")
+        (Zoom "62")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\SOPHUM\SCH\V1.0\SOPHUM.DSN")
       (Schematic "SCHEMATIC1")
@@ -273,8 +271,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 931 52 423")
-        (Scroll "0 373")
-        (Zoom "124")
+        (Scroll "-58 0")
+        (Zoom "62")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\SOPHUM\SCH\V1.0\SOPHUM.DSN")
       (Schematic "SCHEMATIC1")
@@ -283,7 +281,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 983 104 475")
-        (Scroll "772 0")
+        (Scroll "503 32")
         (Zoom "248")
         (Occurrence "/"))
       (Path "G:\PROJECT_DEVELOPMENT\GITHUB\SOPHUM\SCH\V1.0\SOPHUM.DSN")
